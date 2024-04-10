@@ -62,7 +62,7 @@ E370		Baldo, Jason			42,000.00
 E371		Hernandez, Timothy		29,000.00  
 E372		Cruz, Ricardo			37,000.00  
 
-##INSTRUCTIONS:
+INSTRUCTIONS:  
 You are not allowed to alter the composition of the domain objects.  Stick to the design. Disregard the data in the csv if it is not necessary to the object.  
 Adhere to correct naming conventions in naming variables and objects.  
 Use hashmap as your solution to the problem.  
