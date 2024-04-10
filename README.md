@@ -3,10 +3,11 @@ You are required to present a department report that accesses csv files. You mus
 
 ### dep.csv
 Contains the following:
-deptCode, deptName, location
-IT, Information Tech, 2nd floor
-HR, Human Resource, 3rd floor
-FNC, Finance, 4th floor
+
+deptCode, deptName, location  
+IT, Information Tech, 2nd floor  
+HR, Human Resource, 3rd floor  
+FNC, Finance, 4th floor  
 
 ### deptemp.csv
 Referenced to get the salary of the employees per department:
